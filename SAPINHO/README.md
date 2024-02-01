@@ -1,4 +1,4 @@
-Acesso em p5.js: https://openprocessing.org/sketch/2161682
+Execução facilitada: https://openprocessing.org/sketch/2161682
 
 Remake do famoso jogo frog, 'Sapinho' foi feito em p5.js.
 Desenvolvido com base em uma tarefa de PROGRAMAÇÃO I.
