@@ -10,7 +10,7 @@ function setup() {
   adicina.position(150, 175)
   adicina.mousePressed(adicionarContato)
 
-  remover = createButton("Removar Contato")
+  remover = createButton("Remover Contato")
   remover.position(150, 275)
   remover.mousePressed(removercontato)
 
